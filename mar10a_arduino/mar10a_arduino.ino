@@ -15,7 +15,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   if (Serial.available()){
-    char letra = Serial.read()
+    char letra = Serial.read();
     Serial.print(letra);
     if (letra == "H"){
       EstadoBusqueda = BuscarNumero;
