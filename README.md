@@ -3,9 +3,9 @@
 Este es un proyecto de bus de datos
 
 # Colaboradores
-*Angel Ortez
-*David Morales
-*El otro men :v
+* Angel Ortez
+* David Morales
+* El otro men :v
 
 
 # [Paketaxo](https://goo.gl/SsAhv)
